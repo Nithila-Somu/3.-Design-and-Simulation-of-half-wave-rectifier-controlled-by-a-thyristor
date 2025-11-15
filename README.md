@@ -72,3 +72,4 @@ After analysing the simulated output,
 
 ## Result
 Ths the simulation and analysis of a half wave controlled rectifier using one thyristor is designed and got the results using MATLAB.
+
